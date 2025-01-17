@@ -1,5 +1,5 @@
 # ESP-ZeroCode
-[Tutorial] Getting Started with ESP-ZeroCode  
+[Tutorial] Getting Started with ESP ZeroCode  
 
 
 <img src="/Images/ZeroCode-thumb.png" height="200">
@@ -44,7 +44,7 @@ This tutorial is about How to get started with ESP ZeroCode. We've discussed..
 
 - In this tutorial we will see brief introduction to ESP ZeroCode, a game-changer for IoT development. ESP ZeroCode from Espressif Systems. If you’re an IoT enthusiast or a developer, this is a tool you don’t want to miss. And then like we always do, we will see practical demonstration of this platform and its different examples using ESP32 boards.  
 
-▶️  [Tutorial] Getting Started with ESP-ZeroCode  - 🔗  https://youtu.be/xbHPvr6Ibho  
+▶️  [Tutorial] Getting Started with ESP ZeroCode  - 🔗  https://youtu.be/xbHPvr6Ibho  
 
 ▶️  [Projects] Using ESP ZeroCode  - 🔗  https://youtu.be/    
 
