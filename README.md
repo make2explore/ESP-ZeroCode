@@ -2,7 +2,7 @@
 [Tutorial] Getting Started with ESP-ZeroCode  
 
 
-<img src="/Images/ZeroCode-thumb.png" height="200"
+<img src="/Images/ZeroCode-thumb.png" height="200">
   
 **ESP ZeroCod** is a web-based tool or a platform, provided by Espressif Systems (the creators of ESP32 and ESP8266) to simplify the development process for IoT applications. It is designed to help developers quickly and easily create IoT solutions without writing complex firmware code.
 
