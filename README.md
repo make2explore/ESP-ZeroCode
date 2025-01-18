@@ -29,7 +29,7 @@ This tutorial is about How to get started with ESP ZeroCode platform/tool. We've
 - **Create Product** - New Project Creation
 - **Select Device/Module** - Select the espressif SoC module which you want to use
 - **Customize** - Project Customization
-- **Test on ESP Launchpad** - Test your product using ESP Launchpad Web based tool
+- **Test on ESP Launchpad** - Test your ZeroCode product using ESP Launchpad Web based tool
 - **Menu Configuration Tool Demo** using ESP32C3 and C6 Dev Board  
 
 **Software**
