@@ -33,7 +33,7 @@ This tutorial is about How to get started with ESP ZeroCode platform/tool. We've
 - **Menu Configuration Tool Demo** using ESP32C3 and C6 Dev Board  
 
 **Software**
-- Google Chrome Browser (Other browsers are not yet supported)
+- Google Chrome Browser (Other web browsers like Firefox or Safari are not yet supported)
   
 **Hardware**
 - Espressif ESP32C3 and C6 Development Kit or Generic ESP32 Board  
