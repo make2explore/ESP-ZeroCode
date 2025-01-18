@@ -24,7 +24,7 @@ Refer the [ESP-ZeroCode Documentation](https://docs.zerocode.espressif.com/) for
 **Getting Started:**  
 In order to use and get started with ESP-ZeroCode on ESP32, you need not to install any tool on your system.  
 
-This tutorial is about How to get started with ESP ZeroCode. We've discussed..  
+This tutorial is about How to get started with ESP ZeroCode platform/tool. We've discussed..  
 - **ESP-ZeroCode Platform Intro** - Basic Introduction. 
 - **Create Product** - New Project Creation
 - **Select Device/Module** - Select the espressif SoC module which you want to use
