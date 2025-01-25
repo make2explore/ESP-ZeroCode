@@ -31,6 +31,7 @@ This tutorial is about How to get started with ESP ZeroCode platform/tool. We've
 - **Customize** - Project Customization
 - **Test on ESP Launchpad** - Test your ZeroCode product using ESP Launchpad Web based tool
 - **Menu Configuration Tool Demo** using ESP32C3 and C6 Dev Board  
+- **ESP ZeroCode Products** How to use product templates given on ZeroCode Platform
 
 **Software**
 - Google Chrome Browser (Other web browsers like Firefox or Safari are not yet supported)
