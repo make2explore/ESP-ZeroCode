@@ -46,7 +46,7 @@ This tutorial is about How to get started with ESP ZeroCode platform/tool. We've
 
 ▶️  [Tutorial] Getting Started with ESP ZeroCode  - 🔗  https://youtu.be/xbHPvr6Ibho  
 
-▶️  [Projects] Using ESP ZeroCode  - 🔗  https://youtu.be/    
+▶️  [Projects] ESP ZeroCode Product Templates  - 🔗  https://youtu.be/z33mFGMzuHQ     
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
