@@ -50,6 +50,8 @@ This tutorial is about How to get started with ESP ZeroCode platform/tool. We've
 ▶️  [Tutorial] Getting Started with ESP ZeroCode  - 🔗  https://youtu.be/xbHPvr6Ibho  
 
 ▶️  [Projects] ESP ZeroCode Product Templates  - 🔗  https://youtu.be/z33mFGMzuHQ     
+  
+▶️  [DIY Project] Smart Light Bulb using ESP ZeroCode - 🔗  https://youtube.com/   
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
